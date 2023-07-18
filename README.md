@@ -36,9 +36,9 @@ THEN the password is either displayed in an alert or written to the page
 
 ## Review
 
-* Deployed Application URL: https://github.com/SajithAravindan/password-generator.git
+* Deployed Application URL: https://sajitharavindan.github.io/password-generator/
 
-* GitHub Repository: https://sajitharavindan.github.io/password-generator/
+* GitHub Repository: https://github.com/SajithAravindan/password-generator.git
 
 - - -
 © 2023 Confidential and Proprietary. All Rights Reserved.

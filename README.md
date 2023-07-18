@@ -40,7 +40,7 @@ You are required to submit the following for review:
 
 * Deployed Application URL: https://sajitharavindan.github.io/sajith-professional-portfolio/
 
-* GitHub Repository: https://github.com/SajithAravindan/sajith-professional-portfolio.git
+* GitHub Repository: https://sajitharavindan.github.io/password-generator/
 
 - - -
 © 2023 Confidential and Proprietary. All Rights Reserved.

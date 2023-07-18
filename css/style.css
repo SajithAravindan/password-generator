@@ -1,9 +1,16 @@
+/* 
+- Reworked Date: 07/15/2023
+- Reworked by Sajith Aravindan
+========================================================================================
+/* Global Styling  */
+
 *,
 *::before,
 *::after {
   box-sizing: border-box;
 }
 
+/* Full Body Section Styling */
 html,
 body,
 .wrapper {
@@ -22,7 +29,9 @@ body {
   padding-left: 20px;
   padding-right: 20px;
 }
+/* End of Full Body Section Styling */
 
+/* Header Section CSS */
 header {
   text-align: center;
   padding: 20px;
@@ -30,6 +39,7 @@ header {
   color: hsl(206, 17%, 28%);
 }
 
+/* Main Section CSS */
 .card {
   background-color: hsl(0, 0%, 100%);
   border-radius: 5px;
@@ -42,6 +52,7 @@ header {
   padding: 30px 40px;
 }
 
+/* Sub Header Section CSS */
 .card-header::after {
   content: " ";
   display: block;
@@ -72,6 +83,7 @@ header {
   clear: both;
 }
 
+/* Button CSS */
 .btn {
   border: none;
   background-color: hsl(360, 91%, 36%);
@@ -88,15 +100,7 @@ header {
   cursor: pointer;
 }
 
-button[disabled] {
-  cursor: default;
-  background: #c0c7cf;
-}
-
-.float-right {
-  float: right;
-}
-
+/* TextArea CSS */
 #password {
   -webkit-appearance: none;
   -moz-appearance: none;
@@ -118,6 +122,7 @@ button[disabled] {
   overflow: hidden;
 }
 
+/* MEDIA QUERY FOR SMALLER SCREENS*/
 @media (max-width: 690px) {
   .btn {
     font-size: 1rem;
